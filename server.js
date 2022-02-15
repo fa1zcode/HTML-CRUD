@@ -8,7 +8,7 @@ const app = express()
 
 
 // lokasi folder views
-app.set('views', '/home/faiz/Desktop/rubicamp/challenge/web/views')
+app.set('views', '/home/faiz/Desktop/rubicamp/web/views')
 //set view engine ejs   
 app.set('view engine', 'ejs')
 

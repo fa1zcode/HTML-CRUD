@@ -13,10 +13,14 @@
    },
    {
       "task": "olahraga",
-      "complete": false
+      "complete": true
    },
    {
       "task": "makan",
+      "complete": true
+   },
+   {
+      "task": "ngoding",
       "complete": true
    }
 ]
